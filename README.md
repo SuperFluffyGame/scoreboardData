@@ -17,3 +17,15 @@ How to Use
 - getFloat(key)
 - getString(key)
 
+Todo
+----
+1. JSDocs
+2. Prevent data changing from /scoreboard command in game
+3. Base64 name and string encoding
+4. Set and Get JSON
+
+Other
+-----
+Still very much WIP
+
+Made by SuperFluffyGame
