@@ -24,7 +24,7 @@
                 0,
                 0
             ],
-            "entry": "scripts/main.js"
+            "entry": "src/scoreboardData.js"
         }
     ],
     "dependencies": [
