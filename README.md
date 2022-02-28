@@ -23,6 +23,7 @@ Todo
 2. Prevent data changing from /scoreboard command in game
 3. Base64 name and string encoding
 4. Set and Get JSON
+5. Better error handling
 
 Other
 -----
