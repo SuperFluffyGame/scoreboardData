@@ -30,3 +30,6 @@ Other
 Still very much WIP
 
 Made by SuperFluffyGame
+
+
+someone starred the repo so i guess i got to finish it lol
